@@ -1,4 +1,4 @@
-# 
+# rare liquidity sniper bot | trailing-stop + liquidity-sniping is the best liquidity sniper bot, featuring trailing-stop and liquidity-sniping. Fast, smart, and optimized for MEV
 
 
 
